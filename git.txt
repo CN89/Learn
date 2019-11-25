@@ -1,0 +1,21 @@
+…or create a new repository on the command line
+echo "# Learn" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/CN89/Learn.git
+git push -u origin master
+…or push an existing repository from the command line
+git remote add origin https://github.com/CN89/Learn.git
+git push -u origin master
+
+
+ git clone https://github.com/CN89/Learn.git
+
+
+- Basic Github Stuff
+
+
+git add .
+git commit -m'comment'
+git push
