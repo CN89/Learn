@@ -15,7 +15,8 @@ git push -u origin master
 
 - Basic Github Stuff
 
-
 git add .
-git commit -m'comment'
+git commit -m "first commit"
 git push
+
+
